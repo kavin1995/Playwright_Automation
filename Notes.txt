@@ -1,0 +1,6 @@
+KEYBOARD ACTIONS:
+=================
+await page.locator('').press('
+Backquote, Minus, Equal, Backslash, Backspace, Tab, Delete, Escape,
+ArrowDown, End, Enter, Home, Insert, PageDown, PageUp, ArrowRight,
+ArrowUp, F1 - F12, Digit0 - Digit9, KeyA - KeyZ'); [Any one action used in press]
